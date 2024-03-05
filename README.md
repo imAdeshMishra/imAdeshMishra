@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.outsource2india.com/software/images/full-stack-development-services.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adesh Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif")
+<img align="right" alt="Coding" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadeshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="imadeshmishra" /> </p>
 
