@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.outsource2india.com/software/images/full-stack-development-services.webp)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Adesh Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/>
