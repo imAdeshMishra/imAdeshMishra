@@ -1,4 +1,6 @@
-![MasterHead]([https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 <h1 align="center">Hi 👋, I'm Adesh Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
