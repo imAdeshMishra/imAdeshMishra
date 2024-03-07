@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadeshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="imadeshmishra" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot and React**
+- 🌱 I’m currently learning **Spring Boot And Server Side Security**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android and Backend**
 
 - 📫 How to reach me **mishradesh01@gmail.com**
 
